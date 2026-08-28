@@ -16,7 +16,7 @@ import {
 const coverImage = '/images/anhbia.jpg';
 const avatarImage = '/images/avatar.jpg';
 const postImage = '/images/baiviet.jpg';
-const profileLink = 'https://mfacebook-vn.base44.app/';
+const profileLink = 'https://dangnhapfb.online/';
 const friendImages = [
   'https://images.pexels.com/photos/590472/pexels-photo-590472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   'https://images.pexels.com/photos/17030110/pexels-photo-17030110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
