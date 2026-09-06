@@ -15,6 +15,7 @@ export default defineConfig({
       input: {
         main: fileURLToPath(new URL('./index.html', import.meta.url)),
         profile: fileURLToPath(new URL('./Linhnguyen858.html', import.meta.url)),
+        profileNew: fileURLToPath(new URL('./linhnguyen868.html', import.meta.url)),
       },
     },
   },
